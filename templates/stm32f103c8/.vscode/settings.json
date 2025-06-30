@@ -1,0 +1,51 @@
+{
+  "C_Cpp.autocomplete": "disabled",
+  "C_Cpp.errorSquiggles": "disabled",
+  "C_Cpp.intelliSenseEngine": "default",
+  "C_Cpp.autoAddFileAssociations": false,
+  "editor.fontSize": 16,
+  "editor.fontFamily": "'Source Code Pro'",
+  "explorer.confirmDelete": false,
+  "explorer.autoReveal": false,
+  "files.associations": {
+    "**/LICENSE": "plaintext",
+    "**/NOTICE": "plaintext",
+    "**/*.c": "c",
+    "**/*.h": "c",
+    "**/*.md": "markdown",
+    "**/*.txt": "plaintext",
+  },
+  "search.exclude": {
+    "**/*.htm": true,
+    "**/*.html": true,
+    "**/*.map": true,
+  },
+  "[c]": {
+    "editor.detectIndentation": false,
+    "editor.guides.indentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "files.eol": "\n"
+  },
+  "[arm]": {
+    "editor.detectIndentation": false,
+    "editor.guides.indentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 16,
+    "files.eol": "\n"
+  },
+  "[plaintext]": {
+    "editor.detectIndentation": false,
+    "editor.guides.indentation": false,
+    "editor.insertSpaces": false,
+    "editor.tabSize": 8,
+    "files.eol": "\n"
+  },
+  "[markdown]": {
+    "editor.detectIndentation": false,
+    "editor.guides.indentation": false,
+    "editor.insertSpaces": false,
+    "editor.tabSize": 4,
+    "files.eol": "\n"
+  }
+}
